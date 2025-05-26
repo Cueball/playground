@@ -1,0 +1,15 @@
+# General
+.DS_Store
+.localized
+
+# Xcode
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM/
+*.xcscheme
+
+# Swift
+.swiftpm/
+.build/
